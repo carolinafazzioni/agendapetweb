@@ -1,0 +1,9 @@
+# dependências do Node.js 
+node_modules/
+
+# arquivos temporários
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
